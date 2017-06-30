@@ -577,3 +577,4 @@ You can also use this tag to create a link to a post in Markdown as follows:
 [Name of Link]({{ site.baseurl }}{% post_url 2010-07-21-name-of-post %})
 {% endraw %}
 ```
+[forskolinfuel-reviews](http://www.forskolifuel-reviews.com)
